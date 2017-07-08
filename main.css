@@ -1,6 +1,6 @@
 /* CSS Doument */
 body {
-    background-color: #778899;
+    background-color: snow;
     font-family: sans-serif;
 }
 
@@ -11,7 +11,7 @@ h1 {
   z-index: 10;
 }
 h1 {
-  color: #FFFAFA;
+  color: LightSlateGrey;
   font-family: sans-serif;
   text-align: center;
 }
