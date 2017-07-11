@@ -9,7 +9,7 @@ html, body {
 
 /* base */
 #base {
-  background: url("taupe.jpeg");
+  background: url(taupe.jpeg);
   background-size: cover;
   background-position: center bottom;
   height: 100%;
