@@ -32,6 +32,11 @@
   transform: translateY(-300%);
 }
 
+#self > {
+  align-items: center;
+
+}
+
 #socials > p {
   color: #fff;
   font-family: sans-serif;
