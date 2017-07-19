@@ -1,28 +1,38 @@
 /* Custom Sylesheet */
 
-/* html, body {
-  background-color: #A06A72;
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
- */
 /* base */
 
 #base > h1 {
   color: #fff;
-  font-family: 'Cookie', cursive;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 50px;
+
 }
  
 
 #base > h2 {
   color: #fff;
   font-family: sans-serif;
-  font-family: sans-serif;
+  text-align: left;
+  font-size: 16px;
+  transform: translateY(-300%);
 }
 
 #base > p {
+  color: #fff;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+#base > h3 {
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+  transform: translateY(-300%);
+}
+
+#socials > p {
   color: #fff;
   font-family: sans-serif;
   text-align: left;
